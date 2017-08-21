@@ -1,8 +1,9 @@
-# Welcome to AppRefactory Cookbook
+# Welcome to AppRefactory Cookbook Index.html
 
 For full documentation visit [mkdocs.org](http://mkdocs.org).
 
-![Screenshot](img/aws2.PNG)
+
+<img src='aws2.png'>
 
 ## Commands
 
