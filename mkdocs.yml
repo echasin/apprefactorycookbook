@@ -1,2 +1,27 @@
 site_name: AppRefactory
 theme: material
+
+pages:
+- Home: 'index.md'
+- Overview: 
+    - 'Process': 'discovery/index.md'
+    - 'Tools': 'discovery/index.md'  
+- Discovery and Assessment:
+   - 'Process': 'about/index.md'
+   - 'Tools': 'about/index.md'  
+- Data Migration:
+   - 'Process': 'about/index.md'
+   - 'Tools': 'about/index.md'  
+- Application Refactoring:
+   - 'Business Rule Extraction': 'application-refactoring/index.md'
+   - 'Tools': 'about/index.md'  
+- Infrastructure Migration:
+   - 'Process': 'about/index.md'
+   - 'Tools': 'about/index.md'  
+- Tracking and Managment:
+   - 'Process': 'about/index.md'
+   - 'Tools': 'about/index.md'  
+- About:
+    - 'License': 'about/index.md'
+    - 'Release Notes': 'about/index.md'
+    
